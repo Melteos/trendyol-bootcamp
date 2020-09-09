@@ -15,9 +15,8 @@ public class Main {
         meltemsCompany.setSurname("suicmez");
         meltemsCompany.setEmail("ms@meltemcompany.com.tr");
         meltemsCompany.setPhone("05243234243");
-        meltemsCompany.setOnBlackList(true);
         Language chosenLanguage = new EN();
-        meltemsCompany.setLanguage(chosenLanguage);
+        meltemsCompany.setLanguage(chosenLanguage); //Need to set this!
 
         Seller seller = new Seller();
         EmailPackage freeEmailPackage = new EmailFree();

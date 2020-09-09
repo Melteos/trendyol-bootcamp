@@ -44,10 +44,6 @@ public class CompanyDTO extends PersonDTO {
         return notPaidSinceMonths>=2;
     }
 
-    public void setOnBlackList(boolean onBlackList) {
-        isOnBlackList = onBlackList;
-    }
-
     public Language getLanguage() { return language; }
 
     public void setLanguage(Language language) { this.language = language; }
