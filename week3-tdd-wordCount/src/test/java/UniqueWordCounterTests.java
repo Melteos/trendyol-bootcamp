@@ -50,4 +50,16 @@ public class UniqueWordCounterTests {
         //Assert
         assertThat(count).isEqualTo(5);
     }
+
+    @Test
+    public void countUniqueWords_whenSentenceHasWordWithCapitalAndNonCapitalLetter_shouldIncludeItAsOneWord() {
+        //Arrange
+        UniqueWordCounter sut = new UniqueWordCounter();
+
+        //Act
+        int count = sut.countUniqueWords("This test TEST is my cat's.");
+
+        //Assert
+        assertThat(count).isEqualTo(5);
+    }
 }
