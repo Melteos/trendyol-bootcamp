@@ -1,0 +1,10 @@
+/Users/meltem/Documents/Projects/Trendyol Bootcamp/hotel-booking/microservices/hotel/src/main/java/com/trendyol/hotel/HotelApplication.java
+/Users/meltem/Documents/Projects/Trendyol Bootcamp/hotel-booking/microservices/hotel/src/main/java/com/trendyol/hotel/config/CouchbaseIndexConfiguration.java
+/Users/meltem/Documents/Projects/Trendyol Bootcamp/hotel-booking/microservices/hotel/src/main/java/com/trendyol/hotel/domain/Location.java
+/Users/meltem/Documents/Projects/Trendyol Bootcamp/hotel-booking/microservices/hotel/src/main/java/com/trendyol/hotel/config/SwaggerConfig.java
+/Users/meltem/Documents/Projects/Trendyol Bootcamp/hotel-booking/microservices/hotel/src/main/java/com/trendyol/hotel/controller/SwaggerController.java
+/Users/meltem/Documents/Projects/Trendyol Bootcamp/hotel-booking/microservices/hotel/src/main/java/com/trendyol/hotel/domain/Hotel.java
+/Users/meltem/Documents/Projects/Trendyol Bootcamp/hotel-booking/microservices/hotel/src/main/java/com/trendyol/hotel/controller/HotelController.java
+/Users/meltem/Documents/Projects/Trendyol Bootcamp/hotel-booking/microservices/hotel/src/main/java/com/trendyol/hotel/domain/Room.java
+/Users/meltem/Documents/Projects/Trendyol Bootcamp/hotel-booking/microservices/hotel/src/main/java/com/trendyol/hotel/config/CouchbaseProperties.java
+/Users/meltem/Documents/Projects/Trendyol Bootcamp/hotel-booking/microservices/hotel/src/main/java/com/trendyol/hotel/config/HotelCouchbaseConfiguration.java

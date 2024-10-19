@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.trendyol.hotel.domain.HotelTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.trendyol.hotel.domain.HotelTest
+shouldReturnNumberOfRooms  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException: id is marked non-null but is null
+	at com.trendyol.hotel.domain.HotelTest.shouldReturnNumberOfRooms(HotelTest.java:22)
+

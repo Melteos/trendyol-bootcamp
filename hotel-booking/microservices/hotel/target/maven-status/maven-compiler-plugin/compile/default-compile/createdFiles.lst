@@ -1,0 +1,12 @@
+com/trendyol/hotel/config/HotelCouchbaseConfiguration.class
+com/trendyol/hotel/controller/HotelController.class
+com/trendyol/hotel/domain/Hotel$HotelBuilder.class
+com/trendyol/hotel/controller/SwaggerController.class
+com/trendyol/hotel/domain/Room$RoomBuilder.class
+com/trendyol/hotel/HotelApplication.class
+com/trendyol/hotel/domain/Hotel.class
+com/trendyol/hotel/config/CouchbaseIndexConfiguration.class
+com/trendyol/hotel/domain/Location.class
+com/trendyol/hotel/config/CouchbaseProperties.class
+com/trendyol/hotel/domain/Room.class
+com/trendyol/hotel/config/SwaggerConfig.class
